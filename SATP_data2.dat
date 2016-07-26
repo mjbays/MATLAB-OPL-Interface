@@ -1,0 +1,18 @@
+/*********************************************
+ * OPL 12.6.0.0 Data
+ * Author: mjbays
+ * Creation Date: Mar 5, 2014 at 9:20:25 AM
+ * Author: Dr. Matthew Bays <matthew.bays@navy.mil>
+ * Naval Surface Warface Center Panama City Division
+ * Created: March 2014
+ * Modified: March 2016
+ * This program comes with ABSOLUTELY NO WARRANTY, without even the implied 
+ * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * Distribution Statement A: Approved for public release; distribution is unlimited.
+*********************************************/
+f_dock = 1;
+f_deploy = 1;
+f_service = 20;
+f_move = .001;
+Finit = 100;
+
